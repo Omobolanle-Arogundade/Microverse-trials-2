@@ -5,4 +5,38 @@ body {
 #navbar {
   position: fixed;
   left: 0;
+  color: red;
 }
+
+p {
+  font-size: 16 px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+ h1 { 
+text-decoration: underline !important;
+
+ }
+
+h2 { 
+text-decoration: underline;
+
+}
+
+h3 { 
+
+text-decoration: underline;
+}
+
+h4 { 
+
+text-decoration: underline;
+  
+}
+
+h5 {
+
+text-decoration: underline;
+
+ }
+
